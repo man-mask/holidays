@@ -1,0 +1,19 @@
+{
+    "name": "project_xiao/qc",
+    "description": "learn composer",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "eric",
+            "email": "1406173776@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Qian\\Lis\\": "src/Lls"
+        }
+    }
+}
